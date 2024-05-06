@@ -26,7 +26,9 @@ Make a better UI/UX
 
 ### Authors
 Macarthur Diby
+
 Godfrey Osageide
+
 Abena Poku
 
 
