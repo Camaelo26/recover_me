@@ -24,3 +24,9 @@ The Patient Appointment System is designed to streamline the process of scheduli
 ### improvements
 Make a better UI/UX
 
+### Authors
+Macarthur Diby
+Godfrey Osageide
+Abena Poku
+
+
