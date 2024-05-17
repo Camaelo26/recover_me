@@ -17,8 +17,8 @@ def Recover_me():
 
     host = 'localhost'
     username = 'root'
-    password = 'Camael26Macarthur'
-    database = 'Recover_me'
+    password = 'yourpassword'
+    database = 'database name'
     connection = create_connection(host, username, password, database)
     admin_access_code = "admins"
     current_user_id = None
